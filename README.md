@@ -1,6 +1,5 @@
-# continuous-rater
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4279654.svg)](https://doi.org/10.5281/zenodo.4279654)
+# Continuous-Rater-NES
+a svelte based rating app to collect continuous emotion ratings for the cosanlab nes study. Based on maxfarrens [continous-rater](https://maxfarrens.github.io/continuous-rater-book/
 
 For an in-depth tutorial and more information, please visit [maxfarrens.github.io/continuous-rater-book](https://maxfarrens.github.io/continuous-rater-book/). Visit [continuous-rater-demo.netlify.app](https://continuous-rater-demo.netlify.app/) to play with a pre-configured demo. Here is a gif of the app in action:
 
@@ -38,5 +37,5 @@ app built by Max Farrens and [COSAN Lab](https://cosanlab.com/).
 
 ## <a name=contact></a>contact
 
-please email [Max](mailto:maxfarrens@gmail.com) or [COSAN Lab](mailto:cosanlab@gmail.com) with any questions or issues. Thanks!
+please contact Jonathan Lim, [Max](mailto:maxfarrens@gmail.com), or [COSAN Lab](mailto:cosanlab@gmail.com) with any questions or issues. Thanks!
 	
