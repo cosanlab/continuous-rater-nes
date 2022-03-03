@@ -1,5 +1,5 @@
 # Continuous-Rater-NES
-a svelte based rating app to collect continuous emotion ratings for the cosanlab nes study. Based on maxfarrens [continous-rater](https://maxfarrens.github.io/continuous-rater-book/
+a svelte based rating app to collect continuous emotion ratings for the cosanlab nes study. Based on maxfarrens [continous-rater](https://maxfarrens.github.io/continuous-rater-book/)
 
 For an in-depth tutorial and more information, please visit [maxfarrens.github.io/continuous-rater-book](https://maxfarrens.github.io/continuous-rater-book/). Visit [continuous-rater-demo.netlify.app](https://continuous-rater-demo.netlify.app/) to play with a pre-configured demo. Here is a gif of the app in action:
 
